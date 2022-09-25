@@ -1,4 +1,4 @@
-# project-mario
+# Animação Super Mario
 
 Projeto com foco em animações, scripts de resets e alterações de elementos.
 
